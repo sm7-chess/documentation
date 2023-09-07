@@ -12,7 +12,6 @@ The chess app project is aimed at using innovative technologies to improve the w
 - Sensors: Incorporate device sensors (accelerometer, gyroscope) for interactive and dynamic chess experiences, such as tilting the phone to adjust the board's perspective.
 
 ## Research questions
-
 1. How is chess played?
 2. In what kind of "circles" is chess played? (think of friend vs friend, or stranger vs stranger in a park)
 3. What features can I implement to improve the experience of users of all mastery levels?
