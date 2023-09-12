@@ -21,5 +21,45 @@ To make sure my project is fully compatible with David's project, I will need to
 ## Potential Technologies
 
 - Wifi/Bluetooth for finding nearby players (to play a game or befriend in the application)
-- Detecting shake for resetting the chess board after a game (or with dialog during one)
+- Detecting shake for resetting the chess board after a game (or with dialog during one to cancel a match)
 - Use Camera to detect physical chess board
+
+## Potentional Feature Concepts
+
+### Template
+
+Viability: Low/Medium/High
+Effort: Low/Medium/High
+Engaging: Low/Medium/High
+Concept:
+
+### 1 Local finding of other players
+
+#### Bluetooth
+
+Viability: High
+Effort: Low
+Engaging: Medium
+Concept: 
+Allow people to find each other by broadcasting the phone as a Bluetooth beacon, which can make it possible to transfer small amounts of data.
+
+#### Wi-Fi Direct
+
+Viability: Low
+Effort: High
+Engaging: High
+Concept: 
+Allow people to find each other by using Wi-Fi Direct, which can make it possible to transfer larger amounts of data. This implementation has some problems since Apple and Android are not compatible with each other this way. (Apple doesn't actually use Wi-Fi Direct)
+
+#### NFC
+
+Viability: Low
+Effort: Medium
+Engaging: Low
+Concept:
+Allow people to touch their phones together to exchange data for the app. This would require both people to have the app open and choose to share their contacts/start a game.
+
+
+### Reset gameboard by shaking device
+
+### Scan physical chess boards with a camera
