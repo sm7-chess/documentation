@@ -2,7 +2,7 @@
 
 ## Early Project Concept
 
-A chess app that is connected to David's S6 project. The aim of the project is to improve the experience of the App with features that try to focus on several hardware features only mobile devices have. This will all be conceived by the Design thinking process, which will allow me to create this app in an iterative way.
+A chess app that is connected to David's S6 project. The aim of the project is to improve the experience of the App with features that try to focus on several hardware features only mobile devices have. This will all be conceived by the Design thinking process. The app will have both an iOS and Android design, since it will be made in Flutter.
 
 ## Stakeholders
 
