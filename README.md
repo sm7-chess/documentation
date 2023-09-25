@@ -11,9 +11,11 @@ include-before:
 ---
 \pagebreak
 
-### Notes
+## Notes
 
 All direct links to documents are tagged in the git repository to ensure "snapshots". I will make one of these for every assessment.
+
+## Analysis
 
 ### Products
 
