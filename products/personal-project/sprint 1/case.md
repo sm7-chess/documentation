@@ -1,4 +1,14 @@
-# Chess App Case
+---
+mainfont: PTSerif.ttf
+sansfont: PTSans.ttf
+monofont: PTMono.ttf
+title:  'Chess App Case'
+author: "Dylan Nas"
+toc: true
+include-before:
+- '`\newpage{}`{=latex}'
+---
+\pagebreak
 
 ## Problem definition
 

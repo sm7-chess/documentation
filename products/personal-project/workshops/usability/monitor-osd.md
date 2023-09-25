@@ -1,4 +1,15 @@
-# Monitor OSD Buttons (Usability Workshop)
+---
+mainfont: PTSerif.ttf
+sansfont: PTSans.ttf
+monofont: PTMono.ttf
+title:  'Usability Workshop'
+subtitle: "Monitor OSD buttons"
+author: "Dylan Nas"
+toc: true
+include-before:
+- '`\newpage{}`{=latex}'
+---
+\pagebreak
 
 ## Problem
 Computer monitors have a lot of different settings that need to be changed, these settings can be arranged and navigated in multiple different ways. The arrangement is seperate from the navigation, and needs to be explored seperate from each other. Different arrangements could not work with every kind of navigation however.

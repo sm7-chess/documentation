@@ -1,4 +1,14 @@
-# Chess App Sprint 1 Analysis
+---
+mainfont: PTSerif.ttf
+sansfont: PTSans.ttf
+monofont: PTMono.ttf
+title:  'Chess App Analysis'
+author: "Dylan Nas"
+toc: true
+include-before:
+- '`\newpage{}`{=latex}'
+---
+\pagebreak
 
 ## Early Project Concept
 
