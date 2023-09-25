@@ -12,10 +12,18 @@ The chess app project is aimed at using innovative technologies to improve the w
 - Sensors: Incorporate device sensors (accelerometer, gyroscope) for interactive and dynamic chess experiences, such as tilting the phone to adjust the board's perspective.
 
 ## Research questions
-1. How is chess played?
-2. In what kind of "circles" is chess played? (think of friend vs friend, or stranger vs stranger in a park)
-3. What features can I implement to improve the experience of users of all mastery levels?
-4. How can I make it easier for people to pick up a random chess game? (lower the barrier for entry)
+
+1. How does the inclusion of local finding of users increase the quality of chess games player?
+-  Criterion: An increase of 2 on a scale of 10 when asked to rate a chess game when initiated locally.
+2. How does a quick start feature impact amount of chess games started?
+-  Criterion: A statistically meaningful rise in the amount of chess games started by users who get the feature.
+3. Does having a seperate interface for both iOS and Android improve satisfaction among users?
+-  Criterion: An increase of 2 on a scale of 10 when showing an user a design tailored to their platform.
+
+## Goals
+1. Streamline the user interface to make sure new people (after installing) can start a chess game in ~30 seconds.
+2. Available in Dutch and English to increase the amount of people that can use the application
+3. Produce 2 features that improve the "barrier of entry" of a chess game according to 50% of testers that don't play chess regularly.
 
 ## Stakeholders
 
